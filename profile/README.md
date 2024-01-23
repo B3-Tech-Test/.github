@@ -1,6 +1,8 @@
 # B3 Tech Test Repository
-Den här github-organisationen innehåller en samling _repo templates_ som kan användas av samtliga dotterbolag för att genomföra tekniska intervjuer. 
+Välkommen till B3 Consulting Group's tekniska tester.
 
-Varje repo innerhåller ett test och skall dupliceras för varje kandidat (läs hur man gör [här](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template))
+Du är en kandidat som har gått vidare i anställnings-processen och har nu blivit ombedd att utföra ett tekniskt prov, kul!
 
-## Inventarie
+Efter du har loggat in här på GitHub bör du här under se en länk till det repo som skapats för dig med just ditt prov. Ser du ingenting får du kontakta oss igen så löser vi det.
+
+Lycka till!
